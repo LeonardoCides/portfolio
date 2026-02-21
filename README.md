@@ -12,9 +12,9 @@
 - **Database:** PostgreSQL, MongoDB, MySql.
 
 ### 📫 How to reach me:
-- **LinkedIn:** [linkedin.com/in/leonardo-cides](link)
+- **LinkedIn:** https://www.linkedin.com/in/leonardo-cides-3007aa377/
 - **Email:** leonardo.cides.pro@gmail.com
-- **Portfolio:** [https://leonardocides.github.io/portfolio](link)
+- **Portfolio:** https://leonardocides.github.io/portfolio
 
 ---
 *"Code is like humor. When you have to explain it, it’s bad."*
